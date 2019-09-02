@@ -3,7 +3,7 @@
 # Set Image address
 # 设置镜像地址(使用Gitee源以加速大陆地区速度)
 export ADDRESS=https://gitee.com/ZhangHuaGitee/fedora-termux-cn/raw/master/fedora.7z
-#export ADDRESS=https://raw.githubusercontent.com/zhanghua000/fedora-termux-cn/master/fedora.7z
+#export ADDRESS=https://gitlab.com/zhanghua000/fedora-termux-cn/raw/master/fedora.7z
 # This is GitHub mirror. Don't use if you live in China mainland.
 # 上一行为GitHub上的镜像，大陆地区不建议使用
 

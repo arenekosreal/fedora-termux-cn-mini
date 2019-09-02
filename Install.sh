@@ -3,6 +3,7 @@
 # Set Image address
 # 设置镜像地址(使用Gitee源以加速大陆地区速度)
 export ADDRESS=https://gitee.com/ZhangHuaGitee/fedora-termux-cn/raw/master/fedora.7z
+#export ADDRESS=https://gitlab.com/zhanghua000/fedora-termux-cn/raw/master/fedora.7z
 # install necessary packages
 # 安装必备软件包
 echo "Installing packages: proot tar wget git p7zip"
